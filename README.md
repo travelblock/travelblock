@@ -1,7 +1,7 @@
 # TravelBlock
 A Solidity Smart-Contract responsible for issuing and processing payments using [TravelBlock](http://travelblock.io/) ERC20 tokens.
 
-Writing and deployment of this contract performed by [80Trill](80Trill). Auditing performed by [Blockchain Labs](https://www.blockchainlabs.nz/), [Magnus Dufwa](https://www.linkedin.com/in/magnusdufwa/) and [80Trill](http://www.80trill.com).
+Writing and deployment of this contract performed by [80Trill](80Trill). Auditing performed by [Blockchain Labs](https://www.blockchainlabs.nz/), [Blockalize](http://blockalize.com/), and [80Trill](http://www.80trill.com).
 #### Token Details
 
 | Type          | Info            |
