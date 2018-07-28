@@ -1,13 +1,15 @@
 # TravelBlock
 A Solidity Smart-Contract responsible for issuing and processing payments using [TravelBlock](http://travelblock.io/) ERC20 tokens.
 
+Writing and deployment of this contract performed by [80Trill](80Trill). Auditing performed by [Blockchain Labs](https://www.blockchainlabs.nz/), [Magnus Dufwa](https://www.linkedin.com/in/magnusdufwa/) and [80Trill](http://www.80trill.com).
+#### Token Details
 
-##Token Details
-
-name: 'TRVL Token'
-symbol: 'TRVL'
-decimals: '18'
-cap: 600,000,000
+| Type          | Info            |
+| ------------- |:---------------:|
+| name          | TRVL Token      |
+| symbol        | TRVL            |  
+| decimals      | 18              |
+| cap           | 600,000,000     |
 
 TRVL tokens are combination of regular tokens, and reward tokens. 
 
@@ -34,18 +36,18 @@ paymentRewardTokens(_rewardTokenAmount)
 -> Process a payment using strictly reward tokens. 
 
 
-### Whitelist
+#### Whitelist
 The TravelBlock team will be in control of the wallet addresses used to interact with the network. As a result, they will be able to ensure the correct reward percentage is applied to the token purchase. 
 
-### Reward Percentages
+#### Reward Percentages
 The TravelBlock team is in control of the percentage storage that is accessed to apply reward token bonuses to purchases. The owner of the contract can either add or update an existing reward percentage. 
 
 Inputs for reward percentages are formated as follows:
-	- Percentages must be between 0% and 100%	
-	- Accurate up to 18 decimals 
-	eg. 5% should be input as 5 x 10^18
+    - Percentages must be between 0% and 100%   
+    - Accurate up to 18 decimals 
+    eg. 5% should be input as 5 x 10^18
 
-### Libraries Used
+#### Libraries Used
 
 The following OpenZeppelin Solidity contracts were used in this project:
 - PausableToken.sol
@@ -55,7 +57,3 @@ The following OpenZeppelin Solidity contracts were used in this project:
 #### Owner Responsibility/User Risks
 
 This contract has been thoroughly tested for potential vulnerabilities inside of its functionality. However, the TravelBlock team is responsible for anything external. Including but not limited to: Adding/removing Whitelisted addresses, inputting the correct reward percentage indexes.
-
-
-#### DAPP details
-!!! instructions/details to come...
