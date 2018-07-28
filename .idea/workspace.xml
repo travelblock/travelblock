@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fb76303-2bfb-450e-ba21-744f0ee26c72" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BasicToken.test.travelblock.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/BasicToken.test.travelblock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1167">
+              <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tokenTests.travelblock.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/tokenTests.travelblock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RewardToken.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/RewardToken.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/Admin.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="621">
+                <caret line="27" column="69" lean-forward="true" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Migrations.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Whitelist.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/Whitelist.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TRVLToken.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/TRVLToken.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Solidity Contract" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>testrpc</find>
+      <find>node_modules/.bin/testrpc</find>
+      <find>testrpc_running</find>
+      <find>testrpc_pid</find>
+      <find>runinshell</find>
+      <find>@</find>
+      <find>net</find>
+      <find>network</find>
+      <find>ganache</find>
+      <find>Balance</find>
+      <find>zeppelin-solidity</find>
+      <find>web3</find>
+      <find>renounceOwnership</find>
+      <find>safeApprove</find>
+      <find>addAddressesToWhitelist</find>
+      <find>'</find>
+      <find>100</find>
+      <find>whiteli</find>
+      <find>onlyowner</find>
+      <find>transfer</find>
+      <find>admin</find>
+      <find>_users</find>
+      <find>allowance</find>
+      <find>totalSupply</find>
+      <find>travelTokenContract.totalSupply</find>
+      <find>empty</find>
+      <find>balanceOf</find>
+      <find>token.allowance</find>
+      <find>getRewardToken</find>
+      <find>!!!</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>port</replace>
+      <replace>ganache-cli_running</replace>
+      <replace>ganache_pid</replace>
+      <replace>openzeppelin-solidity</replace>
+      <replace>&quot;</replace>
+      <replace>_admins</replace>
+      <replace>allowance.call</replace>
+      <replace>totalSupply.call</replace>
+      <replace>travelTokenContract.totalSupply.call</replace>
+      <replace>balanceOf.call</replace>
+      <replace>token.allowance.call</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tempFiles/PausableToken.test.js" />
+        <option value="$PROJECT_DIR$/tempFiles/MintableToken.behaviour.js" />
+        <option value="$PROJECT_DIR$/tempFiles/BasicToken.test.js" />
+        <option value="$PROJECT_DIR$/test/PausableToken.test.js" />
+        <option value="$PROJECT_DIR$/tempFiles/CappedToken.test.js" />
+        <option value="$PROJECT_DIR$/test/CappedToken.test.js" />
+        <option value="$PROJECT_DIR$/.solcover.js" />
+        <option value="$PROJECT_DIR$/contracts/OZContracts/BasicToken.sol" />
+        <option value="$PROJECT_DIR$/contracts/OZContracts/CanReclaimToken.sol" />
+        <option value="$PROJECT_DIR$/contracts/OZContracts/Pausable.sol" />
+        <option value="$PROJECT_DIR$/contracts/OZContracts/MintableToken.sol" />
+        <option value="$PROJECT_DIR$/contracts/OZContracts/PausableToken.sol" />
+        <option value="$PROJECT_DIR$/tempFiles/HasNoTokens.test.js" />
+        <option value="$PROJECT_DIR$/tempFiles/CanReclaimToken.test.js" />
+        <option value="$PROJECT_DIR$/test/CanReclaimToken.test.js" />
+        <option value="$PROJECT_DIR$/test/HasNoTokens.test.js" />
+        <option value="$PROJECT_DIR$/test/SafeERC20.test.js" />
+        <option value="$PROJECT_DIR$/tempFiles/Ownable.behaviour.js" />
+        <option value="$PROJECT_DIR$/tempFiles/Ownable.test.js" />
+        <option value="$PROJECT_DIR$/test/MintableToken.behaviour.js" />
+        <option value="$PROJECT_DIR$/test/MintableToken.test.js" />
+        <option value="$PROJECT_DIR$/test/CappedToken.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/test/MintableToken.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/.soliumignore" />
+        <option value="$PROJECT_DIR$/contracts/Mocks/BasicTokenMock.sol" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/test/StandardToken.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/migrations/2_test_migrations.js" />
+        <option value="$PROJECT_DIR$/test/CanReclaimToken.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/test/Claimable.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/test/HasNoTokens.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/test/PausableToken.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/test/TestConstants.travelblock.js" />
+        <option value="$PROJECT_DIR$/test/Claimable.test.js" />
+        <option value="$PROJECT_DIR$/test/Ownable.test.js" />
+        <option value="$PROJECT_DIR$/test/Ownable.behaviour.js" />
+        <option value="$PROJECT_DIR$/test/StandardToken.test.js" />
+        <option value="$PROJECT_DIR$/test/SafeERC20.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/test/SafeMath.test.js" />
+        <option value="$PROJECT_DIR$/contracts/Mocks/ERC223TokenMock.sol" />
+        <option value="$PROJECT_DIR$/contracts/Mocks/SafeMathMock.sol" />
+        <option value="$PROJECT_DIR$/contracts/Mocks/SafeERC20Helper.sol" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/test/BasicToken.test.travelblock.js" />
+        <option value="$PROJECT_DIR$/test/tokenTests.travelblock.js" />
+        <option value="$PROJECT_DIR$/contracts/RewardToken.sol" />
+        <option value="$PROJECT_DIR$/contracts/Admin.sol" />
+        <option value="$PROJECT_DIR$/contracts/Migrations.sol" />
+        <option value="$PROJECT_DIR$/contracts/TRVLToken.sol" />
+        <option value="$PROJECT_DIR$/contracts/Whitelist.sol" />
+        <option value="$PROJECT_DIR$/.env" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="908" />
+    <option name="y" value="219" />
+    <option name="width" value="1660" />
+    <option name="height" value="1679" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="travelblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travelblock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="travelblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travelblock" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="travelblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travelblock" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+              <item name="Mocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="travelblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travelblock" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="travelblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travelblock" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="travelblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travelblock" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/testHolder" />
+      <recent name="$PROJECT_DIR$/contracts" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tempFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Run/Debug">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Coverage" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method>
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_TRVL Coverage" />
+      </method>
+    </configuration>
+    <configuration name="Run/Debug" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method>
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_TRVL tests" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="npm.Run/Debug" />
+      <item itemvalue="npm.Coverage" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fb76303-2bfb-450e-ba21-744f0ee26c72" name="Default" comment="" />
+      <created>1529515665672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529515665672</updated>
+      <workItem from="1529515667032" duration="10208000" />
+      <workItem from="1529534638161" duration="2895000" />
+      <workItem from="1529609353412" duration="19449000" />
+      <workItem from="1529633898398" duration="13548000" />
+      <workItem from="1529712082274" duration="2376000" />
+      <workItem from="1529948391124" duration="3823000" />
+      <workItem from="1529967035753" duration="108000" />
+      <workItem from="1529967541374" duration="1228000" />
+      <workItem from="1530128175509" duration="1484000" />
+      <workItem from="1530131035113" duration="993000" />
+      <workItem from="1530234221869" duration="9000" />
+      <workItem from="1530322609310" duration="350000" />
+      <workItem from="1530634448705" duration="2646000" />
+      <workItem from="1530660306803" duration="2086000" />
+      <workItem from="1530665836572" duration="681000" />
+      <workItem from="1530725708239" duration="5417000" />
+      <workItem from="1530827372491" duration="8688000" />
+      <workItem from="1530838864196" duration="857000" />
+      <workItem from="1530894169594" duration="2137000" />
+      <workItem from="1530920587542" duration="4160000" />
+      <workItem from="1530925508754" duration="171000" />
+      <workItem from="1531158731213" duration="3803000" />
+      <workItem from="1531241814538" duration="2142000" />
+      <workItem from="1531263596600" duration="2738000" />
+      <workItem from="1531349959396" duration="5252000" />
+      <workItem from="1531425353545" duration="19837000" />
+      <workItem from="1531450523009" duration="68000" />
+      <workItem from="1531505032174" duration="601000" />
+      <workItem from="1531761486514" duration="3158000" />
+      <workItem from="1531770565236" duration="4092000" />
+      <workItem from="1531785934786" duration="2934000" />
+      <workItem from="1532469931548" duration="2139000" />
+      <workItem from="1532472477188" duration="132000" />
+      <workItem from="1532474624938" duration="535000" />
+      <workItem from="1532735134285" duration="583000" />
+      <workItem from="1532810510354" duration="1979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133307000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="908" y="219" width="1660" height="1679" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35451713" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1933735" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985056" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/BasicToken.test.travelblock.js</url>
+          <line>69</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="95" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Whitelist.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="54" lean-forward="true" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC20/PausableToken.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/OZContracts/CanReclaimToken.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/OZContracts/Ownable.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/OZContracts/BasicToken.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/OZContracts/StandardToken.sol" />
+    <entry file="file://$PROJECT_DIR$/testHolder/HasNoTokens.test.travelblock.js" />
+    <entry file="file://$PROJECT_DIR$/testHolder/PausableToken.test.travelblock.js" />
+    <entry file="file://$PROJECT_DIR$/coverage/contracts/Admin.sol.html" />
+    <entry file="file://$PROJECT_DIR$/contracts/OZContracts/HasNoTokens.sol" />
+    <entry file="file://$PROJECT_DIR$/test/CanReclaimToken.test.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage/contracts/OZContracts/BasicToken.sol.html" />
+    <entry file="file://$PROJECT_DIR$/test/TestConstants.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Claimable.test.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/test/ownership/Claimable.test.js" />
+    <entry file="file://$PROJECT_DIR$/test/Ownable.test.js" />
+    <entry file="file://$PROJECT_DIR$/test/HasNoTokens.test.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Ownable.behaviour.js" />
+    <entry file="file://$PROJECT_DIR$/test/PausableToken.test.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage/contracts/OZContracts/Claimable.sol.html" />
+    <entry file="file://$PROJECT_DIR$/coverage/contracts/OZContracts/SafeERC20.sol.html" />
+    <entry file="file://$PROJECT_DIR$/coverage/contracts/OZContracts/Ownable.sol.html" />
+    <entry file="file://$PROJECT_DIR$/test/StandardToken.test.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SafeERC20.test.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage/contracts/Mocks/SafeERC20Helper.sol.html" />
+    <entry file="file://$PROJECT_DIR$/coverage/contracts/Mocks/ERC223TokenMock.sol.html" />
+    <entry file="file://$PROJECT_DIR$/contracts/OZContracts/ERC20.sol" />
+    <entry file="file://$PROJECT_DIR$/test/Claimable.test.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truffle-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.solcover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SafeMath.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Mocks/SafeMathMock.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Mocks/SafeERC20Helper.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Mocks/ERC223TokenMock.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BasicToken.test.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1167">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tokenTests.travelblock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Whitelist.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/TRVLToken.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/RewardToken.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Admin.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="621">
+            <caret line="27" column="69" lean-forward="true" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
